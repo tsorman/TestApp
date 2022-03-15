@@ -17,6 +17,6 @@ class MainTests {
 
     @Test
     fun multiplication_isCorrect() {
-        assertEquals(4, 2 * 2)
+        assertEquals(8, 4 * 2)
     }
 }
